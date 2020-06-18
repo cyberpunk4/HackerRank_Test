@@ -1,4 +1,8 @@
-package introduction;
+// Problem: https://www.hackerrank.com/challenges/java-date-and-time
+// Difficulty: Easy
+// Score: 15
+
+
 
 import java.io.IOException;
 import java.text.DateFormatSymbols;

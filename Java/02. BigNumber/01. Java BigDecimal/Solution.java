@@ -1,11 +1,15 @@
-package bignumber;
+// Problem: https://www.hackerrank.com/challenges/java-bigdecimal
+// Difficulty: Medium
+// Score: 20
+
+
 
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class BigDecimalDemo {
+public class Solution {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

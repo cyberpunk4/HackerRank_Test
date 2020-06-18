@@ -1,9 +1,13 @@
-package bignumber;
+// Problem: https://www.hackerrank.com/challenges/java-primality-test
+// Difficulty: Easy
+// Score: 20
+
+
 
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class PrimalityTest {
+public class Solution {
 	private static final Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) {

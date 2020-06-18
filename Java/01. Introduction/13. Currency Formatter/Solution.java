@@ -1,4 +1,8 @@
-package introduction;
+// Problem: https://www.hackerrank.com/challenges/java-currency-formatter
+// Difficulty: Easy
+// Score: 15
+
+
 
 import java.text.NumberFormat;
 import java.util.Locale;

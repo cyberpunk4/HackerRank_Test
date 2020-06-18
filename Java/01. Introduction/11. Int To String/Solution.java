@@ -1,4 +1,8 @@
-package introduction;
+// Problem: https://www.hackerrank.com/challenges/java-int-to-string
+// Difficulty: Easy
+// Score: 10
+
+
 
 import java.security.Permission;
 import java.util.Scanner;

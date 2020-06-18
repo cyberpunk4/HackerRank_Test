@@ -1,4 +1,8 @@
-package introduction;
+// Problem: https://www.hackerrank.com/challenges/java-stdin-stdout
+// Difficulty: Easy
+// Score: 10
+
+
 
 import java.util.Scanner;
 
