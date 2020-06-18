@@ -4,7 +4,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CurrencyFormatter {
+public class Solution {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package introduction;
 
 import java.util.Scanner;
 
-public class LoopI {
+public class Solution {
 
 	private static final Scanner scanner = new Scanner(System.in);
 

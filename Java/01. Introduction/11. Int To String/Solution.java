@@ -3,7 +3,7 @@ package introduction;
 import java.security.Permission;
 import java.util.Scanner;
 
-public class IntToString {
+public class Solution {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package introduction;
 
 import java.util.Scanner;
 
-public class StaticInitializerBlock {
+public class Solution {
 
 	static Scanner scanner = new Scanner(System.in);
 	static int B = scanner.nextInt();

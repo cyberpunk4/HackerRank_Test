@@ -23,7 +23,7 @@ class Result {
 
 }
 
-public class DateAndTime {
+public class Solution {
 	public static void main(String[] args) throws IOException {
 		Scanner s = new Scanner(System.in);
 		int month = s.nextInt();// Integer.parseInt();
