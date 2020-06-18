@@ -1,17 +1,15 @@
-<p align="center"><a href="https://www.hackerrank.com/gorogo106"><img src="https://github.com/cyberpunk4/HackerRank_Test/blob/master/HackerRank%20Logo.png" ></a></p>
+<div align="center"><p align="center"><a href="https://www.hackerrank.com/gorogo106" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>
 
-Solutions to Hackerrank practice problems
+[![Author](https://img.shields.io/badge/author-gorogo106-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/gorogo106)[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)</div><br/><br/>
+
+# Solutions to Hackerrank practice problems
 This repository contains 26 solutions to Hackerrank practice problems with Python 3, C++ and Oracle SQL.
 
 Updated daily :) If it was helpful please press a star.
 
-[![Author](https://img.shields.io/badge/author-gorogo106-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/gorogo106)
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-
 # Table of Contents
 1. [Java](#java)
 2. [Python](#python)
-
 
 # Java
 |Subdomain|Challenge|Difficulty|Score|Solution|

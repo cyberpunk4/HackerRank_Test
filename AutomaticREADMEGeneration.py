@@ -35,9 +35,17 @@ def getTotalNumberOfProblems():
 
 
 readmeFile = open('README.md', 'w', encoding='utf-8')
+print('<div align="center">'
+      '<p align="center">'
+      '<a href="https://www.hackerrank.com/gorogo106" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>',
+      file=readmeFile)
+print(file=readmeFile)
 print(
-    '<p align="center"><a href="https://www.hackerrank.com/gorogo106"><img src="https://github.com/cyberpunk4/HackerRank_Test/blob/master/HackerRank%20Logo.png" ></a></p>',
-    file=readmeFile)
+    '[![Author](https://img.shields.io/badge/author-gorogo106-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/gorogo106)'
+    '[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)'
+    '</div>'
+    '<br/>'
+    '<br/>', file=readmeFile)
 print(file=readmeFile)
 print('# Solutions to Hackerrank practice problems', file=readmeFile)
 print('This repository contains ' + str(
@@ -46,19 +54,12 @@ print('This repository contains ' + str(
 print(file=readmeFile)
 print('Updated daily :) If it was helpful please press a star.', file=readmeFile)
 print(file=readmeFile)
-print(
-    '[![Author](https://img.shields.io/badge/author-gorogo106-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/gorogo106)',
-    file=readmeFile)
-print(
-    '[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)',
-    file=readmeFile)
-print(file=readmeFile)
-
 folders = getFoldersNames(os.getcwd())
+print("# Table of Contents",file=readmeFile)
+for index,folder in enumerate(folders):
+    print(str(index+1)+". "+"["+folder+"]"+"(#"+folder.lower()+")",file=readmeFile)
+print(file=readmeFile)
 for folder in sorted(folders):
-    # i = 1
-    # print("## Table of contents", file=readmeFile)
-    # print(str(i) + "." + "[" + folder + "]" + "(#" + folder.lower() + ")", file=readmeFile)
     print('# ' + folder, file=readmeFile, end="\n")
     print("|Subdomain|Challenge|Difficulty|Score|Solution|", file=readmeFile, end="\n")
     print("|-|-|-|-|-|", file=readmeFile, end="\n")
