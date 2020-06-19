@@ -1,4 +1,4 @@
-<div align="center"><p align="center"><a href="https://www.hackerrank.com/gorogo106" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>
+<div align="center"><a href="https://www.hackerrank.com/gorogo106" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>
 
 [![Author](https://img.shields.io/badge/author-gorogo106-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/gorogo106)[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)</div><br/><br/>
 

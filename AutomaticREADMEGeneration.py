@@ -36,7 +36,6 @@ def getTotalNumberOfProblems():
 
 readmeFile = open('README.md', 'w', encoding='utf-8')
 print('<div align="center">'
-      '<p align="center">'
       '<a href="https://www.hackerrank.com/gorogo106" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>',
       file=readmeFile)
 print(file=readmeFile)
@@ -56,7 +55,7 @@ print('Updated daily :) If it was helpful please press a star.', file=readmeFile
 print(file=readmeFile)
 folders = getFoldersNames(os.getcwd())
 print("# Table of Contents",file=readmeFile)
-for index,folder in enumerate(folders):
+for index,folder in sorted(enumerate(folders)):
     print(str(index+1)+". "+"["+folder+"]"+"(#"+folder.lower()+")",file=readmeFile)
 print(file=readmeFile)
 for folder in sorted(folders):
