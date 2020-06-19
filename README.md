@@ -14,7 +14,7 @@ Updated daily :) If it was helpful please press a star.
 # Java
 |Subdomain|Challenge|Difficulty|Score|Solution|
 |-|-|-|-|-|
-|Introduction|[Welcome To Java!](https://www.hackerrank.com/challenges/welcome-to-java)|Easy|3|[Solution](Java/01.%20Introduction/01.%20Welcome%20To%20Java!/Solution.java)|
+|Introduction|[Welcome To Java!](https://www.hackerrank.com/challenges/welcome-to-java/?target=_blank)|Easy|3|[Solution](Java/01.%20Introduction/01.%20Welcome%20To%20Java!/Solution.java/?target=_blank)|
 |Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)|Easy|5|[Solution](Java/01.%20Introduction/02.%20Java%20Stdin%20and%20Stdout%20I/Solution.java)|
 |Introduction|[Java If Else](https://www.hackerrank.com/challenges/java-if-else)|Easy|10|[Solution](Java/01.%20Introduction/03.%20Java%20If%20Else/Solution.java)|
 |Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)|Easy|10|[Solution](Java/01.%20Introduction/04.%20Java%20Stdin%20and%20Stdout%20II/Solution.java)|
