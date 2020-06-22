@@ -1,6 +1,6 @@
 <div align="center"><a href="https://www.hackerrank.com/username" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>
 
-[![Solutions](https://img.shields.io/badge/solutions-26-green.svg?style=flat-square)](https://github.com/cyberpunk4/HackerRank#table-of-contents) [![Author](https://img.shields.io/badge/author-username-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/gorogo106) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
+[![Solutions](https://img.shields.io/badge/solutions-26-green.svg?style=flat-square)](https://github.com/cyberpunk4/HackerRank_Test#table-of-contents) [![Author](https://img.shields.io/badge/author-username-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/username) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
 
 The problem solutions are entirely provided by [UserName](https://www.hackerrank.com/gorogo106). My primary purpose is to pass all the platform tests of a given problem. So that I did not follow any coding style. If you have any query then drop me message into [LinkedIn](url) or else you can email me on `abcdghijk.lm@gmail.com` like an old school people.
 ## Table of Contents
