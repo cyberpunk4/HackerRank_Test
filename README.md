@@ -4,14 +4,14 @@
 
 The problem solutions are entirely provided by [UserName](https://www.hackerrank.com/gorogo106). My primary purpose is to pass all the platform tests of a given problem. So that I did not follow any coding style. If you have any query then drop me message into [LinkedIn](url) or else you can email me on `abcdghijk.lm@gmail.com` like an old school people.
 ## Table of Contents
-1. [Java](#java)
+1. [Core Java](#core-java)
 2. [Python](#python)
-## Java
+## Core Java
 |Problem No.|Subdomain|Challenge|Difficulty|Score|Solution|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|BignNumber|[Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)|Medium|20|[Solution](Java/01.%20BignNumber/01.%20Java%20BigDecimal/Solution.java)|
-|2|BignNumber|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)|Easy|20|[Solution](Java/01.%20BignNumber/02.%20Java%20Primality%20Test/Solution.java)|
-|3|BignNumber|[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger)|Easy|10|[Solution](Java/01.%20BignNumber/03.%20Java%20BigInteger/Solution.java)|
+|1|BignNumber|[Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)|Medium|20|[Solution](Core%20Java/01.%20BignNumber/01.%20Java%20BigDecimal/Solution.java)|
+|2|BignNumber|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)|Easy|20|[Solution](Core%20Java/01.%20BignNumber/02.%20Java%20Primality%20Test/Solution.java)|
+|3|BignNumber|[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger)|Easy|10|[Solution](Core%20Java/01.%20BignNumber/03.%20Java%20BigInteger/Solution.java)|
 ## Python
 |Problem No.|Subdomain|Challenge|Difficulty|Score|Solution|
 |:-:|:-:|:-:|:-:|:-:|:-:|
