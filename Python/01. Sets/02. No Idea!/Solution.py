@@ -1,3 +1,6 @@
+# Problem: https://www.hackerrank.com/challenges/no-idea/problem
+# Difficulty: Medium
+# Score: 50
 # first method we can also use underscore(_) instead of a and b
 a, b = map(int,input().split())
 lst = input().split()

@@ -15,6 +15,6 @@ The problem solutions are entirely provided by [UserName](https://www.hackerrank
 ## Python
 |Problem No.|Subdomain|Challenge|Difficulty|Score|Solution|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sets|[Introduction to Sets](average(array):)|set(array)|len(unique_elements))|[Solution](Python/01.%20Sets/01.%20Introduction%20to%20Sets/Solution.py)|
-|2|Sets|[No Idea!](b)|map(int,input().split())|input().split()|[Solution](Python/01.%20Sets/02.%20No%20Idea!/Solution.py)|
-|3|Sets|[Symmetric Difference](int(input()))|set(map(int,input().split()))|int(input())|[Solution](Python/01.%20Sets/03.%20Symmetric%20Difference/Solution.py)|
+|1|Sets|[Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)|Easy|10|[Solution](Python/01.%20Sets/01.%20Introduction%20to%20Sets/Solution.py)|
+|2|Sets|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|Medium|50|[Solution](Python/01.%20Sets/02.%20No%20Idea!/Solution.py)|
+|3|Sets|[Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)|Easy|10|[Solution](Python/01.%20Sets/03.%20Symmetric%20Difference/Solution.py)|
