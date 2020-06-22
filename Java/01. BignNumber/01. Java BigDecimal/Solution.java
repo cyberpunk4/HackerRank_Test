@@ -2,8 +2,6 @@
 // Difficulty: Medium
 // Score: 20
 
-
-
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Comparator;

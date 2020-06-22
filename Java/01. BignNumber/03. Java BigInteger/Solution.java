@@ -2,8 +2,6 @@
 // Difficulty: Easy
 // Score: 10
 
-
-
 import java.math.BigInteger;
 import java.util.Scanner;
 

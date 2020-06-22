@@ -1,7 +1,3 @@
-# Problem: https://www.hackerrank.com/challenges/symmetric-difference/problem
-# Difficulty: Easy
-# Score: 10
-
 a = int(input())
 set_a = set(map(int,input().split()))
 b = int(input())
